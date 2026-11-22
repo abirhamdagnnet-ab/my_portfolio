@@ -156,7 +156,7 @@ export default function Hero() {
         {/* Name */}
         <h1 style={{
           fontFamily: 'var(--font-head)', fontWeight: 800,
-          fontSize: 'clamp(2.5rem, 7vw, 5.5rem)',
+          fontSize: 'clamp(2.1rem, 5vw, 5.1rem)',
           lineHeight: 1.1, marginBottom: '0.75rem',
           background: 'linear-gradient(135deg, #ffffff 0%, #00d4ff 50%, #7c3aed 100%)',
           WebkitBackgroundClip: 'text', WebkitTextFillColor: 'transparent', backgroundClip: 'text',
