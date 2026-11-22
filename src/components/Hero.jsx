@@ -174,7 +174,7 @@ export default function Hero() {
 
         {/* Bio */}
         <p style={{ fontFamily: 'var(--font-mono)', color: 'var(--text-muted)', fontSize: '0.95rem', maxWidth: 550, marginBottom: '2.5rem', lineHeight: 1.8 }}>
-          Hi i am Abirham , a 3rd year IT student building fullstack apps by day, exploring networks by night. I turn coffee into code and chaos into systems.
+          Hi i am Abirham , a 4rd year IT student building fullstack apps by day, exploring networks by night. I turn coffee into code and chaos into systems.
         </p>
 
         {/* Buttons */}
